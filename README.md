@@ -1,4 +1,4 @@
-# 3D Shoe Animation
+# 3D Shoe Animation - Toy Project
 
 
 ![%ED%99%94%EB%A9%B4_%EA%B8%B0%EB%A1%9D_2022-10-12_%EC%98%A4%ED%9B%84_10_37_41_AdobeExpress-2](https://user-images.githubusercontent.com/114594496/227913445-26f0e8ce-11df-4e71-9dad-8eb150deb930.gif)
